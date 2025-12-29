@@ -1,0 +1,33 @@
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT: Please read this License Agreement carefully before installing or using FinChart Pro.
+
+By installing or using this software, you agree to the terms of this Agreement. If you do not agree, do not install or use the software.
+
+1. LICENSE GRANT
+You are granted a non-exclusive, non-transferable license to install and use one copy of the software on a single computer, solely for your personal or business use.
+
+2. RESTRICTIONS
+You may NOT:
+- Distribute, sell, rent, lease, or share the software with others.
+- Reverse engineer, decompile, or attempt to extract the source code.
+- Modify or create derivative works based on the software.
+
+3. OWNERSHIP
+This software is licensed, not sold. Market Charts retains all rights, title, and interest in and to the software.
+
+4. UPDATES
+Market Charts may provide updates or new versions at its sole discretion. Updates are covered by this license unless otherwise specified.
+
+5. WARRANTY DISCLAIMER
+The software is provided "AS IS" without warranty of any kind. You assume all responsibility for the use of the software.
+
+6. LIABILITY
+In no event shall Market Charts be liable for any damages, including but not limited to loss of profits, business interruption, or data loss arising out of the use or inability to use the software.
+
+7. TERMINATION
+This license is effective until terminated. Failure to comply with any term of this Agreement will result in automatic termination without notice. Upon termination, you must stop using the software and delete all copies.
+
+---
+
+© 2025 Market Charts. All rights reserved.
