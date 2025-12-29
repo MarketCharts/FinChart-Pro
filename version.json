@@ -1,8 +1,9 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.0",
     "url": "https://github.com/MarketCharts/FinChart-Pro/releases/download/v1.2.0/FinChartPro.exe",
     "sha256": "a69d3de3db97637e4a8a7f38e3d9aed20cadc5c122ab8ba8c53b8e89e1f5c781",
     "notes": "License System, Auto Updater, Multiple Datasets"
   }
 
   
+
